@@ -1,16 +1,16 @@
-## Hi there 👋
+# hey, i'm rusheel 👋
+`math` `code` `physics` → trying to make them useful ⚙️
 
-<!--
-**rus0exe/rus0exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## currently
+- learning things slightly too late 📉
+- write code → break code → fix code 🔁
+- thinking about markets & planes ✈️
 
-Here are some ideas to get you started:
+## interests
+`quant` `swe` `aero` `phys`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## goal
+figure out what to specialize in
+
+## fun fact
+everything works (eventually) 🧠
